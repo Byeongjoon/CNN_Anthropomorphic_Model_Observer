@@ -1,6 +1,6 @@
 # CNN_Anthropomorphic_Model_Observer
 
-This is a Keras implementation of "A Convolutional Neural Network-based Anthropomorphic Model Observer for Signal Detection in Breast CT Images without Human-labeled Data," which is submitted to IEEE Access.
+This is a Keras implementation of "A Convolutional Neural Network-based Anthropomorphic Model Observer for Signal Detection in Breast CT Images without Human-labeled Data," which is submitted to IEEE Access.  
 This also includes MATLAB code for generating training data.
 
 ## Requirements
